@@ -17,7 +17,10 @@ Fully **responsive**, clean, and smooth to use.
 ---
 
 ## 📸 Screenshot
-![App Screenshot](./screen1.png)
+<img width="2560" height="1440" alt="Screenshot (274)" src="https://github.com/user-attachments/assets/4b261b1f-7b78-46c6-a3cd-9d85960d7df8" />
+<img width="2560" height="1440" alt="Screenshot (275)" src="https://github.com/user-attachments/assets/9238bf8f-4528-4697-b140-636146d06058" />
+<img width="2560" height="1440" alt="Screenshot (276)" src="https://github.com/user-attachments/assets/02b0fe03-5640-4b9b-8b95-2b19b178fd73" />
+
 
 ---
 
